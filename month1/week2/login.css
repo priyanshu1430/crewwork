@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+body{
+    font-family: 'Quicksand', sans-serif;
+    padding: 150px;
+    padding-top: 50px;
+    margin-top: 100px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    max-width: 250px;
+    max-height: 350px;
+    margin-left: 650px;
+
+}
+
+
+#signup{
+margin-left: 100px;
+};
+
+
+input{
+    size: 35px;
+}
